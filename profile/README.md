@@ -1,6 +1,6 @@
 # <img height="22" src="https://github.com/woiluid/.github/blob/main/images/woilu.png"> Woilu Open Source Project
 
-![​Open Source Project Mineversal](https://github.com/woiluid/.github/blob/main/images/banner.png) 
+![​Open Source Project Woilu](https://github.com/woiluid/.github/blob/main/images/banner.png) 
 
 ----
 
