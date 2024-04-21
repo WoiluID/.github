@@ -16,9 +16,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: WoiluID
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          #plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
           plugin_people: yes
           plugin_people_types: members
           plugin_achievements: yes
           plugin_code: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://woilu.com
