@@ -117,9 +117,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.8122217725617" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="303.8122217725617" y="0" width="102.041972596404" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="405.8541943689657" y="0" width="54.14580563103428" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.7946583420049" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="303.7946583420049" y="0" width="102.03607353451265" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="405.8307318765175" y="0" width="54.16926812348248" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -132,7 +132,7 @@
                             </div>
                             <small>
                                 <div>11.4 kB</div>
-                                <div>66.05%</div>
+                                <div>66.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -144,7 +144,7 @@
                             </div>
                             <small>
                                 <div>2.04 kB</div>
-                                <div>11.77%</div>
+                                <div>11.78%</div>
                             </small>
                         </div>
                     </section>
@@ -241,7 +241,7 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.39 s</div>
+                        <div class="audit text">0.37 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -283,7 +283,7 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.39 s</div>
+                        <div class="audit text">0.37 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -466,7 +466,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.51m out of 207m repositories</span>
+                                    <span class="gh">ranked 2.51m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -493,7 +493,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 24 May 2024, 18:10:11  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 May 2024, 00:32:20  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
