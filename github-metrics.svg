@@ -117,9 +117,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.02314145212614" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="304.02314145212614" y="0" width="101.79346253977438" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="405.81660399190054" y="0" width="54.183396008099514" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.00555362721275" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="304.00555362721275" y="0" width="101.78757375911141" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="405.79312738632416" y="0" width="54.206872613675806" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -186,8 +186,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
-                                <text x="60" y="60" dominant-baseline="central">97</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
+                                <text x="60" y="60" dominant-baseline="central">98</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -466,7 +466,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainers
-                                    <span class="gh">ranked 2.57m out of 205m repositories</span>
+                                    <span class="gh">ranked 2.57m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -493,7 +493,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 1 Aug 2024, 18:10:09  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2024, 00:36:17  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
