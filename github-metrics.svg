@@ -117,9 +117,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.7528141511601" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="301.7528141511601" y="0" width="104.45899379738113" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="406.2118079485412" y="0" width="53.78819205145876" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.7354849824843" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="301.7354849824843" y="0" width="104.45299488887612" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="406.1884798713604" y="0" width="53.81152012863952" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -132,7 +132,7 @@
                             </div>
                             <small>
                                 <div>11.4 kB</div>
-                                <div>65.6%</div>
+                                <div>65.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -144,7 +144,7 @@
                             </div>
                             <small>
                                 <div>2.04 kB</div>
-                                <div>11.69%</div>
+                                <div>11.7%</div>
                             </small>
                         </div>
                     </section>
@@ -186,8 +186,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
-                                <text x="60" y="60" dominant-baseline="central">97</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
+                                <text x="60" y="60" dominant-baseline="central">98</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -529,7 +529,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 23 Feb 2025, 18:10:50  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Feb 2025, 00:44:09  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
